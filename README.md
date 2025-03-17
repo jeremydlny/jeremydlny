@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jeremydlny/count.svg?"  />
+  [![](https://visitcount.itsvg.in/api?id=jeremydlny&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
 
 ###
