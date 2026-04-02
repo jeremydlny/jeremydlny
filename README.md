@@ -1,7 +1,7 @@
 <h3 align="left">👨‍💻 About me</h3>
 
 <p align="left">
-Frontend developer specialized in React, currently expanding into cybersecurity through self-study and hands-on labs (TryHackMe). Based in Nouvelle-Aquitaine, France. Freelance via micro-enterprise.
+Frontend developer specialized in React, currently expanding into cybersecurity through self-study and hands-on labs (TryHackMe). Freelance · Nouvelle-Aquitaine, France
 </p>
 
 <h3 align="left">🛠 Stack</h3>
