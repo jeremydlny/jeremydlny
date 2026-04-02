@@ -1,13 +1,7 @@
 <h3 align="left">👨‍💻 About me</h3>
 
 <p align="left">
-Frontend developer specialized in React, currently expanding into cybersecurity through self-study and hands-on labs (TryHackMe). Freelance · Nouvelle-Aquitaine, France
-</p>
-
-<h3 align="left">🛠 Stack</h3>
-
-<p align="left">
-JavaScript (ES6+) · React · Vite · HTML · CSS · Git/GitHub · Figma
+Frontend developer, currently expanding into cybersecurity through self-study and hands-on labs (TryHackMe). Freelance · Nouvelle-Aquitaine, France
 </p>
 
 <h3 align="left">🔐 Currently learning</h3>
