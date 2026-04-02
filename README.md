@@ -8,33 +8,11 @@
 Frontend developer specialized in React, currently expanding into cybersecurity through self-study and hands-on labs (TryHackMe). Based in Nouvelle-Aquitaine, France. Freelance via micro-enterprise.
 </p>
 
-<h3 align="left">🛠 Main stack</h3>
+<h3 align="left">🛠 Stack</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-</div>
-
-<h3 align="left">🔧 Also worked with</h3>
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="35" alt="angular" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma" />
-</div>
+<p align="left">
+JavaScript (ES6+) · React · Vite · HTML · CSS · Git/GitHub · Figma
+</p>
 
 <h3 align="left">🔐 Currently learning</h3>
 
