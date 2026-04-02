@@ -40,7 +40,8 @@ Frontend developer specialized in React, currently expanding into cybersecurity 
 
 <p align="left">
 Cybersecurity — TryHackMe Pre-Security (completed) · Cyber Security 101 (in progress)<br>
-ISC2 Certified in Cybersecurity (CC) — in preparation
+ISC2 Certified in Cybersecurity (CC) — in preparation<br>
+TryHackMe SAL1 — up next
 </p>
 
 <h3 align="left">📊 Stats</h3>
